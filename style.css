@@ -1,0 +1,96 @@
+.clock {
+    width: 350px;
+    height: 350px;
+    background: darkgray;
+    margin: 50px auto;
+    position: relative;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 30px;
+}
+
+.cod1 {
+    position: relative;
+    margin: 0;
+    left: 243px;
+    top: -10px;
+}
+
+.cod2 {
+    position: relative;
+    margin: 0;
+    left: 297px;
+    top: 10px;
+}
+
+.cod3 {
+    margin: 0;
+    position: relative;
+    left: 325px;
+    top: 55px;
+}
+
+.cod4 {
+    margin: 0;
+    position: relative;
+    left: 297px;
+    top: 100px;
+}
+
+.cod5 {
+    margin: 0;
+    position: relative;
+    left: 243px;
+    top: 120px;
+}
+
+.cod6 {
+    margin: 0;
+    position: relative;
+    left: 167px;
+    top: 105px;
+}
+
+.cod7 {
+    margin: 0;
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+
+.cod8 {
+    margin: 0;
+    position: relative;
+    top: -37px;
+    left: 40px;
+}
+
+.cod9 {
+    margin: 0;
+    position: relative;
+    top: -150px;
+    left: 12px;
+}
+
+.cod10 {
+    margin: 0;
+    position: relative;
+    top: -267px;
+    left: 37px;
+}   
+
+.cod11 {
+    margin: 0;
+    position: relative;
+    top: -355px;
+    left: 90px;
+}
+
+.cod12 {
+    margin: 0;
+    position: relative;
+    left: 160px;
+    top: -410px;
+}
